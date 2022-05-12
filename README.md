@@ -11,4 +11,4 @@ This process study included
 6. Forecasting
 7. Recommendation
 
-Main point that I did is cars sales trend, top 5 most seeling brands, kind of type cars sales, highest average sales, forecasting, and recommendation based on result to make data-driven analysis.
+Main point that I did is cars sales trend, top 5 most selling brands, kind of type cars sales, highest average sales, forecasting, and recommendation based on result to make data-driven analysis.
