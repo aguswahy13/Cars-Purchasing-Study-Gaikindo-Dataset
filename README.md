@@ -1,9 +1,9 @@
 # Cars-Purchasing-Study-Gaikindo-Dataset
 
-This is the project that I did when I was internship in market research company, all dataset can be obatained [Gakindo Dataset](https://www.gaikindo.or.id/indonesian-automobile-industry-data/), study that I did used in year 2011-2020.
+This is the project that I did when I was internship in market research company, all dataset can be obatained [Gakindo Dataset](https://www.gaikindo.or.id/indonesian-automobile-industry-data/), study that I did used Holt Winter's method and dataset in the range of years 2011-2020.
 
 This process study included
-1. Filtering DataSet
+1. Filtering Dataset
 2. Exploratory Data Analysis (EDA)
 3. Data Cleaning
 4. Data Processing
@@ -11,4 +11,4 @@ This process study included
 6. Forecasting
 7. Recommendation
 
-
+Main point that I did is cars sales trend, top 5 most seeling brands, kind of type cars sales, highest average sales, forecasting, and recommendation based on result to make data-driven analysis.
